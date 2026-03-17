@@ -1,0 +1,31 @@
+{
+  "name": "offlineguru",
+  "version": "1.0.0",
+  "description": "OfflineGuru web app",
+  "main": "server.js",
+  "type": "commonjs",
+
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poorvisnrao2005-coder/OfflineGuru.git"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poorvisnrao2005-coder/OfflineGuru/issues"
+  },
+  "homepage": "https://github.com/poorvisnrao2005-coder/OfflineGuru#readme"
+}
